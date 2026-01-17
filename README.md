@@ -1,4 +1,5 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e84ea0a-3e25-4b13-8521-67fde5d09477" />
+
+<img width="1277" height="853" alt="image" src="https://github.com/user-attachments/assets/fca78150-5f2d-4094-a177-e51a73e8dd2a" />
 
 # 🚀 AICrashCourse  
 ## AI Crash Course – Software Module Building Blocks  
