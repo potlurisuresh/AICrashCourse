@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langserve
+langchain-core
+langchain-openai
+langgraph
+pydantic
+streamlit
+requests

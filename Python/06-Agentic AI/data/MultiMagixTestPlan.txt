@@ -1,0 +1,302 @@
+Run below test cases on Windows
+Go to path "C:\MMWS\MMMediaSuite\MMApp\Console\Windows\x64\Debug"
+
+Video to Audio
+===================
+1)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4 -o 1
+2)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4 -o 2
+3)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4 -o 3
+4)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4 -o 12
+
+
+5)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp -o 1
+6)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp -o 2
+7)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp -o 3
+8)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp -o 12
+
+9) MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv -o 1
+10)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv -o 2
+11)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv -o 3
+12)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv -o 12
+
+
+13)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv -o 1
+14)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv -o 2
+15)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv -o 3
+16)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv -o 12
+
+17)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov -o 1
+18)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov -o 2
+19)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov -o 3
+20)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov -o 12
+
+21)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg -o 1
+22)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg -o 2
+23)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg -o 3
+24)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg -o 12
+
+25)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv -o 1
+26)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv -o 2
+27)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv -o 3
+28)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv -o 12
+
+29)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -o 1
+30)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -o 2
+31)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -o 3
+32)MMApp.exe -f 1 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -o 12
+
+
+Video to Video
+===============
+1)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -o 14
+2)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -o 14
+3)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -o 14
+4)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -o 14
+5)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -o 14
+6)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -o 14
+7)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -o 14
+8)MMApp.exe -f 4 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -o 14
+
+
+Extract Video
+===============
+1)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -o 25
+2)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -o 25
+3)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -o 25
+4)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -o 25
+5)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -o 25
+6)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -o 25
+7)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -o 25
+8)MMApp.exe -f 5 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -o 25
+
+TRIM
+======
+1) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -s 10 -d 20
+2) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -s 10 -d 20
+3) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -s 10 -d 20
+4) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -s 10 -d 20
+5) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -s 10 -d 20
+6) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -s 10 -d 20
+7) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -s 10 -d 20
+8) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -s 10 -d 20
+
+9) MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -s 0  -d 10
+10)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -s 0  -d 10
+11)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -s 0  -d 10
+12)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -s 0  -d 10
+13)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -s 0  -d 10
+14)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -s 0  -d 10
+15)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -s 0  -d 10
+16)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -s 0  -d 10
+
+
+17)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -s 30 -d 10
+18)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -s 30 -d 10
+19)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -s 30 -d 10
+20)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -s 30 -d 10
+21)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -s 30 -d 10
+22)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -s 30 -d 10
+23)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -s 30 -d 10
+24)MMApp.exe -f 2 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -s 30 -d 10
+
+
+RESIZE:
+========
+1) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -w 480 -h 340
+2) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -w 480 -h 340
+3) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -w 480 -h 340
+4) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -w 480 -h 340
+5) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -w 480 -h 340
+6) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -w 480 -h 340
+7) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -w 480 -h 340
+8) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -w 480 -h 340
+
+9) MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -w 320 -h 180
+10)MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -w 320 -h 180
+11)MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -w 320 -h 180
+12)MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -w 320 -h 180
+13)MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -w 320 -h 180
+14)MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -w 320 -h 180
+15)MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -w 320 -h 180
+16)MMApp.exe -f 3 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -w 320 -h 180
+
+
+AUDIO to AUDIO:
+================
+1)  MMApp.exe -f 26 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp3 -o 2
+2)  MMApp.exe -f 26 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp3 -o 3
+3)  MMApp.exe -f 26 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp3 -o 12
+
+Playback Control
+=================
+1) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -p fast -x 1.5 -pv 1 -na 1
+2) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -p fast -x 1.5 -pv 1 -na 1
+3) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -p fast -x 1.5 -pv 1 -na 1
+4) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -p fast -x 1.5 -pv 1 -na 1
+5) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -p fast -x 1.5 -pv 1 -na 1
+6) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -p fast -x 1.5 -pv 1 -na 1
+7) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -p fast -x 1.5 -pv 1 -na 1
+8) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -p fast -x 1.5 -pv 1 -na 1
+
+9) MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -p fast -x 2 -pv 1 -na 1
+10)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -p fast -x 2 -pv 1 -na 1
+11)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -p fast -x 2 -pv 1 -na 1
+12)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -p fast -x 2 -pv 1 -na 1
+13)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -p fast -x 2 -pv 1 -na 1
+14)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -p fast -x 2 -pv 1 -na 1
+15)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -p fast -x 2 -pv 1 -na 1
+16)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -p fast -x 2 -pv 1 -na 1
+
+
+17)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -p slow -x 1.5 -pv 1 -na 1
+18)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -p slow -x 1.5 -pv 1 -na 1
+19)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -p slow -x 1.5 -pv 1 -na 1
+20)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -p slow -x 1.5 -pv 1 -na 1
+21)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -p slow -x 1.5 -pv 1 -na 1
+22)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -p slow -x 1.5 -pv 1 -na 1
+23)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -p slow -x 1.5 -pv 1 -na 1
+24)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -p slow -x 1.5 -pv 1 -na 1
+
+25)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -p slow -x 2 -pv 1 -na 1
+26)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -p slow -x 2 -pv 1 -na 1
+27)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -p slow -x 2 -pv 1 -na 1
+28)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -p slow -x 2 -pv 1 -na 1
+29)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -p slow -x 2 -pv 1 -na 1
+30)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -p slow -x 2 -pv 1 -na 1
+31)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -p slow -x 2 -pv 1 -na 1
+32)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -p slow -x 2 -pv 1 -na 1
+
+
+33)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -p fast -x 2 -pv 1 -pa 1
+34)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -p fast -x 2 -pv 1 -pa 1
+35)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -p fast -x 2 -pv 1 -pa 1
+36)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -p fast -x 2 -pv 1 -pa 1
+37)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -p fast -x 2 -pv 1 -pa 1
+38)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -p fast -x 2 -pv 1 -pa 1
+39)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -p fast -x 2 -pv 1 -pa 1
+40)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -p fast -x 2 -pv 1 -pa 1
+
+41)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -p fast -x 2 -pv 1 -pa 0
+42)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -p fast -x 2 -pv 1 -pa 0
+43)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -p fast -x 2 -pv 1 -pa 0
+44)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -p fast -x 2 -pv 1 -pa 0
+45)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -p fast -x 2 -pv 1 -pa 0
+46)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -p fast -x 2 -pv 1 -pa 0
+47)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -p fast -x 2 -pv 1 -pa 0
+48)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -p fast -x 2 -pv 1 -pa 0
+
+49)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -p fast -x 2 -pv 1 -pa 0
+50)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -p fast -x 2 -pv 1 -pa 0
+51)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -p fast -x 2 -pv 1 -pa 0
+52)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -p fast -x 2 -pv 1 -pa 0
+53)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -p fast -x 2 -pv 1 -pa 0
+54)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -p fast -x 2 -pv 1 -pa 0
+55)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -p fast -x 2 -pv 1 -pa 0
+56)MMApp.exe -f 6 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -p fast -x 2 -pv 1 -pa 0
+
+Reverse
+========
+Reverse Video no Audio
+
+1)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -rv 1 -na 1
+2)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -rv 1 -na 1
+3)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -rv 1 -na 1
+4)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -rv 1 -na 1
+5)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -rv 1 -na 1
+6)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -rv 1 -na 1
+7)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -rv 1 -na 1
+8)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -rv 1 -na 1
+
+Reverse Video and Audio
+1)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -rv 1 -ra 1
+2)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -rv 1 -ra 1
+3)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -rv 1 -ra 1
+4)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -rv 1 -ra 1
+5)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -rv 1 -ra 1
+6)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -rv 1 -ra 1
+7)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -rv 1 -ra 1
+8)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -rv 1 -ra 1
+
+Reverse Video and Keep Audio as it is
+1)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -rv 1 -ra 0
+2)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -rv 1 -ra 0
+3)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -rv 1 -ra 0
+4)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -rv 1 -ra 0
+5)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -rv 1 -ra 0
+6)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -rv 1 -ra 0
+7)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -rv 1 -ra 0
+8)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -rv 1 -ra 0
+
+Keep Audio as it is  and Reverse audio
+1)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -rv 0 -ra 1
+2)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -rv 0 -ra 1
+3)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -rv 0 -ra 1
+4)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -rv 0 -ra 1
+5)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -rv 0 -ra 1
+6)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -rv 0 -ra 1
+7)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -rv 0 -ra 1
+8)MMApp.exe -f 7 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -rv 0 -ra 1
+
+
+Compress
+========
+Based on crf:
+==============
+1) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -crf 23
+3) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -crf 23
+4) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -crf 23
+5) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -crf 23
+6) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -crf 23
+2) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -crf 23
+7) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -crf 23
+8) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -crf 23
+
+9) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -crf 28
+10)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -crf 28
+11)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -crf 28
+12)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -crf 28
+13)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -crf 28
+14)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -crf 28
+15)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -crf 28
+16)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -crf 28
+
+Based on max-b-frames:
+=======================
+1) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -max-bframes 1
+2) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -max-bframes 1
+3) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -max-bframes 1
+4) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -max-bframes 1
+5) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -max-bframes 1
+6) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -max-bframes 1
+7) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -max-bframes 1
+8) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -max-bframes 1
+
+9) MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -max-bframes 7
+10)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -max-bframes 7
+11)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -max-bframes 7
+12)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -max-bframes 7
+13)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -max-bframes 7
+14)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -max-bframes 7
+15)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -max-bframes 7
+16)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -max-bframes 7
+
+17)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -max-bframes 3
+18)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -max-bframes 3
+19)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.flv  -max-bframes 3
+20)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -max-bframes 3
+21)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mov  -max-bframes 3
+22)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -max-bframes 3
+23)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -max-bframes 3
+24)MMApp.exe -f 11 -i  C:\MMWS\MMMediaSuite\Samples\sample.webm -max-bframes 3
+
+Merge
+======
+1)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -i2  C:\MMWS\MMMediaSuite\Samples\sample.mp4  -m 1
+2)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -i2  C:\MMWS\MMMediaSuite\Samples\sample.3gp  -m 1
+3)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.flv  -i2  C:\MMWS\MMMediaSuite\Samples\sample.flv  -m 1
+4)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -i2  C:\MMWS\MMMediaSuite\Samples\sample.mkv  -m 1
+5)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.mov  -i2  C:\MMWS\MMMediaSuite\Samples\sample.mov  -m 1
+6)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -i2  C:\MMWS\MMMediaSuite\Samples\sample.mpg  -m 1
+7)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -i2  C:\MMWS\MMMediaSuite\Samples\sample.wmv  -m 1
+8)MMApp.exe -f 8 -i1  C:\MMWS\MMMediaSuite\Samples\sample.webm -i2  C:\MMWS\MMMediaSuite\Samples\sample.webm -m 1
+
